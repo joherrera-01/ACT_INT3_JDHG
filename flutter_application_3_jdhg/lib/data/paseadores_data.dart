@@ -5,7 +5,7 @@ class PaseadoresData {
     Paseador(
       id: '1',
       nombre: 'Carlos Mendoza',
-      fotoUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80',
+      fotoUrl: 'https://reqres.in/img/faces/9-image.jpg',
       calificacion: 4.9,
       precioPorHora: 12.50,
       experiencia: '5 años cuidando y adiestrando perros de razas grandes.',

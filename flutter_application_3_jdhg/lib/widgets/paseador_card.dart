@@ -43,7 +43,7 @@ class PaseadorCard extends StatelessWidget {
                     color: Colors.deepOrange.shade100,
                     child: Center(
                       child: Text(
-                        paseador.nombre[0],
+                        paseador.nombre.isNotEmpty ? paseador.nombre[0] : 'P',
                         style: GoogleFonts.poppins(
                           fontSize: 24,
                           fontWeight: FontWeight.bold,

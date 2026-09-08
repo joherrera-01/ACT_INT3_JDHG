@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => PaseosProvider()),
       ],
       child: MaterialApp(
-        title: 'PaseoCanino',
+        title: 'Paseos Mascotas',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           useMaterial3: true,
