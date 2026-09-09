@@ -37,24 +37,7 @@ UI & Íconos: flutter/material.dart
 
 ## 📌 6. Estructura de Carpetas del Proyecto
 
-lib/
-├── data/
-│   └── paseadores_data.dart
-├── models/
-│   ├── paseador_model.dart
-│   └── paseo_model.dart
-├── providers/
-│   └── paseos_provider.dart
-├── screens/
-│   ├── detalle_paseador_screen.dart
-│   ├── favoritos_screen.dart
-│   ├── home_screen.dart
-│   └── mis_paseos_screen.dart
-├── widgets/
-│   ├── app_logo.dart
-│   ├── paseador_card.dart
-│   └── paseo_card.dart
-└── main.dart
+![alt text](image-13.png)
 
 ## 📌 7. Explicación Breve del Provider Implementado
 
@@ -102,10 +85,15 @@ Captura: MisPaseosScreen con los paseos agendados
 
 Captura 1: Modificación de estado (Ej: Hacer clic en el corazón de favorito en HomeScreen)
 
+![alt text](image-12.png)
+
 Captura 2: Reflejo automático sin recargar en FavoritosScreen
 
+![alt text](image-11.png)
 
 Captura 3: Diálogo de confirmación al cancelar un paseo en MisPaseosScreen
+
+![alt text](image-10.png)
 
 ## 📌 12. Autor
 
