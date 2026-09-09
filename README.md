@@ -79,15 +79,24 @@ Descargar las dependencias necesarias:
 Capturas de las Principales Pantallas
 (Adjunta aquí las capturas de pantalla tomadas de tu emulador o dispositivo real)
 
-[Insertar Captura: HomeScreen con lista de paseadores]
+ HomeScreen con lista de paseadores
 
-[Insertar Captura: DetallePaseadorScreen con el formulario de reserva]
+ ![alt text](menu.png)
 
-[Insertar Captura: FavoritosScreen con la lista filtrada]
+DetallePaseadorScreen con el formulario de reserva
 
-[Insertar Captura: MisPaseosScreen con los paseos agendados]
+![alt text](solic1.png)
+
+FavoritosScreen con la lista filtrada
+
+![alt text](favorito2.png)
+
+Captura: MisPaseosScreen con los paseos agendados
+
+![alt text](paseoshechos.png)
 
 Captura o Evidencia de la Funcionalidad Administrada mediante Provider
+
 (Adjunta aquí las capturas que comprueben la reactividad)
 
 [Insertar Captura 1: Modificación de estado (Ej: Hacer clic en el corazón de favorito en HomeScreen)]
