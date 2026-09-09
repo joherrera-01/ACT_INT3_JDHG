@@ -53,7 +53,7 @@ PaseoCard: Tarjeta responsiva que detalla los datos del paseo agendado (mascota,
 
 ## 📌 9. Instrucciones Básicas para Ejecutar el Proyecto
 
-- Clonar o descargar el repositorio del proyecto.
+- Clonar o descargar el repositorio del proyecto. git clone https://github.com/joherrera-01/ACT_INT3_JDHG.git
 
 - Abrir el proyecto con Visual Studio Code.
 
