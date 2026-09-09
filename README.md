@@ -82,6 +82,7 @@ Captura: MisPaseosScreen con los paseos agendados
 
 ## 📌 11. Captura o Evidencia de la Funcionalidad Administrada mediante Provider
 
+![alt text](image-14.png)
 
 Captura 1: Modificación de estado (Ej: Hacer clic en el corazón de favorito en HomeScreen)
 
